@@ -30,7 +30,7 @@ yarn install or npm install
 
 ## Versioning
 
-###Version 1.0
+### Version 1.0
 
 ## Authors
 
