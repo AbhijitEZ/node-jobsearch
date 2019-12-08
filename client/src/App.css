@@ -1,0 +1,26 @@
+.main-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px !important;
+}
+
+.job-single {
+  margin-bottom: 20px;
+  padding: 15px 30px;
+  display: flex;
+}
+.job-content-section {
+  width: 70%;
+}
+.job-location {
+  width: 30%;
+  padding: 10px 15px;
+  text-align: center;
+}
+.job-location > div {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
